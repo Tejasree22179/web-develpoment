@@ -1,6 +1,6 @@
 # web-develpoment
-my 90-day web development 
-Day 1 – HTML Practice
+**my 90-day web development**
+_Day 1 – HTML Practice_
 This folder contains beginner HTML practice exercises.
 Syllabus Covered:
 - HTML structure and syntax
@@ -13,7 +13,8 @@ practice tasks:
 3.favorite quotes
 4.contact information
 5.favorite subject list
-#DAY2-WEB DEVELOPMENT
+**#DAY2-WEB DEVELOPMENT**
+
   structure of html textformatting tags,
   attributes
 practice tasks:
