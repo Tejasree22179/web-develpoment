@@ -14,6 +14,7 @@ practice tasks:
 3.favorite quotes
 4.contact information
 5.favorite subject list
+
 **#DAY2-WEB DEVELOPMENT**
 
   structure of html textformatting tags, attributes
