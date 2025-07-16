@@ -26,8 +26,11 @@ practice tasks:
   About me
   all tags in one page
   fun with the superscript and subscript
- Day 3 - HTML Practice
- Topics Covered:
+  
+**#Day 3 - HTML Practice**
+ 
+ **#Topics Covered:**
+ 
 On Day 3, I practiced:
 - HTML Headings (<h1> to <h6>)
 - Paragraphs (<p>)
