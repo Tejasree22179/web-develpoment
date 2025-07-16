@@ -33,9 +33,9 @@ practice tasks:
  
 **# Practice Tasks**
 
-create a bullet of list of your 5 favourite fruits
-list of 5 programming languages you want to learn
-Daily routine make table shows the simple daily schedule
-simple form make a basic student form
-create a student profilo
+create a bullet of list of your 5 favourite fruits,
+list of 5 programming languages you want to learn,
+Daily routine make table shows the simple daily schedule,
+simple form make a basic student form,
+create a student profilo.
     
