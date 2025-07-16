@@ -29,17 +29,10 @@ practice tasks:
   
 **#Day 3 - HTML Practice**
  
- **#Topics Covered:**
+ **#Topics Covered:**- tables, lists, forms
  
-On Day 3, I practiced:
-- HTML Headings (<h1> to <h6>)
-- Paragraphs (<p>)
-- Line Break (<br>) and Horizontal Line (<hr>)
-- Text Formatting Tags:
-  - <strong>, <em>, <u>, <small>, <mark>, <del>, <ins>
-- Links using <a href="...">
-- Images using <img src="..." alt="...">
- Practice Tasks
+**# Practice Tasks**
+
 create a bullet of list of your 5 favourite fruits
 list of 5 programming languages you want to learn
 Daily routine make table shows the simple daily schedule
