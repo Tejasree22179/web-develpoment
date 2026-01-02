@@ -4,13 +4,13 @@ This repository contains my Day 1 HTML practice tasks as part of my Full Stack W
 
 I am starting from basics and focusing on building strong fundamentals in HTML.
 Task 1: Create Your First Webpage
-My name using <h1> tag
+My name using '<h1>' tag
 
-A short bio using <p> tag
+A short bio using '<p>' tag
 
-A profile image using <img> tag
+A profile image using '<img>' tag
 
-A list of my hobbies using <ul> / <ol>
+A list of my hobbies using '<ul> / <ol>'
 
 A clickable link to my Instagram or GitHub using <a> tag
 
