@@ -22,6 +22,8 @@ Names of three favourite movies
 YouTube trailer links for each movie
 
 An image of my most favourite movie
+
+
 📞 Task 3: Contact Me Section
 
 Name
@@ -35,3 +37,30 @@ Home address
 Important details highlighted using <b> tag
 
 Content written using <p> tags
+
+Task4and Task 5
+
+HTML CORE ELEMENTS
+1. Headings (h1 to h6)
+
+2. Paragraph (p)
+
+
+5. Lists
+
+Unordered list (ul)
+
+Ordered list (ol)
+
+List item (li)
+
+
+6. Links (a)
+
+
+7. Images (img)
+
+
+8. HTML comments
+
+
